@@ -15,8 +15,9 @@ Python, pandas, matplotlib, seaborn, scikit-learn
 To install dependencies:
 ```bash
 pip install pandas matplotlib seaborn scikit-learn holidays
+```
 
-# For Recruiters
+## For Recruiters
 This project demonstrates:
 - Data cleaning and preprocessing (merging real-world weather + sales data)
 - Exploratory data analysis (visualizing trends and relationships)
